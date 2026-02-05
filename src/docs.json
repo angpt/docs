@@ -955,7 +955,8 @@
                           "group": "LangChain open source frameworks",
                           "pages": [
                             "langsmith/trace-with-langchain",
-                            "langsmith/trace-with-langgraph"
+                            "langsmith/trace-with-langgraph",
+                            "langsmith/trace-deep-agents"
                           ]
                         },
                         {
